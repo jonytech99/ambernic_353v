@@ -1,4 +1,6 @@
 # Ambernic_353v
+![image](https://github.com/jonytech99/Ambernic_353v/assets/124568169/dc7b9aec-2dea-405e-87bc-67fa16a5920e)
+
 # README: Configuración de Ambernic 353V y Guía de Instalación de Juegos
 
 ¡Bienvenido/a al repositorio de configuración y guía de instalación de juegos para la consola Ambernic 353V!
